@@ -1,0 +1,52 @@
+								
+N	Marca	Modelo	Tipo	Numero Puertas	Transmicion	Tipo Combustible	Kilometraje	Costo Dólar
+1	Toyota	2010	Vagoneta	4	Automatica	Gasolina	135000	16900
+2	Mitsubishi	2003	Auto	2	Automatica	Gasolina	18000	7500
+3	Toyota	2021	Vagoneta	4	Automatica	Gasolina	1000	41000
+4	Mercedes	2005	Auto	4	Manual	Gasolina	105000	14800
+5	Great-Wall	2021	Vagoneta	4	Automatica	Gasolina	11000	22900
+6	Ford	2013	Vagoneta	4	Automatica	Gasolina	77000	10200
+7	Hyundai	2014	Vagoneta	4	Automatica	Gasolina	58400	16300
+8	Chery	2011	Vagoneta	4	Manual	Gasolina	24500	18900
+9	Great-Wall	2013	Camioneta	4	Manual	Gasolina	15600	13500
+10	Hyundai	2016	Vagoneta	4	Automatica	Gasolina	47790	20500
+11	Audi	2012	Auto	2	Automatica	Gasolina	48038	35800
+12	Dodge	2011	Auto	2	Automatica	Gasolina	65902	24000
+13	Hyundai	2014	Vagoneta	4	Automatica	Gasolina	62723	20500
+14	Nissan	2014	Vagoneta	4	Automatica	Gasolina	19520	38200
+15	BMW	2001	Vagoneta	4	Automatica	Gasolina	1000	12500
+16	Dodge	2014	Vagoneta	4	Automatica	Gasolina	62603	38500
+17	Land Rover	2006	Vagoneta	4	Automatica	Gasolina	138900	25500
+18	Jeep	2016	Vagoneta	4	Automatica	Gasolina	10000	48800
+19	Audi	2002	Auto	3	Manual	Gasolina	89234	9600
+20	Hyundai	2018	Vagoneta	4	Automatica	Gasolina	34588	22900
+21	Nissan	2013	Auto	2	Automatica	Gasolina	62712	19000
+22	Dodge	2013	Auto	4	Manual	Gasolina	18024	19500
+23	Audi	2010	Auto	4	Automatica	Gasolina	21100	36900
+24	BMW	2013	Vagoneta	4	Automatica	Gasolina	73000	20900
+25	Ford	2008	Camioneta	2	Automatica	Gasolina	305775	13500
+26	Hyundai	2016	Vagoneta	3	Manual	Gasolina	8562	24500
+27	Toyota	2008	Camioneta	2	Automatica	Gasolina	117342	23500
+28	Mercedes	2009	Auto	3	Automatica	Gasolina	19312	13500
+29	Nissan	2004	Vagoneta	2	Automatica	Gasolina	132009	17000
+30	Ford	2014	Auto	5	Manual	Gasolina	44884	19500
+31	Toyota	2007	Camioneta	2	Automatica	Gasolina	255081	22500
+32	Audi	2006	Vagoneta	5	Automatica	Gasolina	109354	16500
+33	Hyundai	2013	Auto	2	Automatica	Gasolina	72420	19200
+34	Nissan	2013	Camioneta	4	Manual	Gasolina	42000	23000
+35	Land Rover	2006	Vagoneta	4	Automatica	Gasolina	150450	44800
+36	Ford	2004	Camioneta	4	Automatica	Gasolina	198000	14900
+37	Toyota	2013	Vagoneta	4	Automatica	Gasolina	58258	29500
+38	Hyundai	2011	Auto	5	Automatica	Gasolina	140240	8700
+39	Dodge	2007	Camioneta	2	Automatica	Gasolina	251057	15000
+40	Nissan	2011	Auto	4	Automatica	Gasolina	72420	21000
+41	Jeep	2014	Vagoneta	2	Automatica	Gasolina	50400	20800
+42	Audi	2016	Vagoneta	4	Automatica	Gasolina	6000	69000
+43	Dodge	2007	Vagoneta	4	Automatica	Gasolina	63000	18000
+44	Mercedes	2014	Vagoneta	5	Manual	Gasolina	14000	39500
+45	Ford	2004	Vagoneta	4	Automatica	Gasolina	156000	17900
+46	Audi	2008	Vagoneta	5	Manual	Diesel	85000	42000
+47	Jeep	2012	Vagoneta	2	Automatica	Gasolina	48500	19500
+48	Dodge	2009	Camioneta	4	Automatica	Gasolina	24140	21500
+49	BMW	2006	Auto	4	Automatica	Gasolina	118950	16500
+50	Hyundai	2008	Vagoneta	4	Manual	Gasolina	64000	17000
