@@ -1,0 +1,6 @@
+Para este problema se uso el metodo de busqueda A* ya que deberia ser el metodo
+que menos nodos expande dependiendo del costo, para la heuristica se usa la distancia de Manhattan.
+
+Se uso el codigo de rompecabezas hecho en clases, en la cual se modifico para que
+cumpla las condiciones ded 4x3, aun asi el problema toma aproximadamente 7 minutos para su resolucion utilizando
+la distancia Manhattan.

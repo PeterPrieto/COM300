@@ -1,0 +1,6 @@
+Para este problema se uso el algoritmo de juegos Minimax ya que puede rastrear todas las posibilidades 
+en nuestro tablero 4x4.
+
+Para la resolucion este problema se baso en el Minimax visto en clases, en la cual se modifico el tamaño
+del tablero y se implemento un metodo que nos permite verificar espacios de 3x3 para asi poder verificar el estado
+del tablero y saber si se logro 3 en raya.
