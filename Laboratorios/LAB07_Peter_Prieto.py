@@ -6,9 +6,6 @@ María Elena Ramos
 Paulo Aldo Quispe
             
 
-Trabajar en grupos en una estupidez sobre todo si no saben nada, al menos estos 
-3 quisieron aprender supongo.
-Atte: Peter
 '''
 import random
 PM = 0
